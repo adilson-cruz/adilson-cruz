@@ -1,4 +1,4 @@
- ### Hi,guys! I’m Adilson Tavares and wellcome to my profile 
+ ### Hi,guys! I’m Adilson Tavares and welcome to my profile 
  
 - 👀 I’m interested in infrastructure as code
 - 🌱 I’m currently learning tools relationship with DevOps Engineering as kubernetes and Docker among others
